@@ -35,8 +35,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Plann.er é uma API que auxilia no gerenciamento de viagens e convidados
 
-- [Visite o site online] (https://thomegabi.github.io/nlw-setup-Z)
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
