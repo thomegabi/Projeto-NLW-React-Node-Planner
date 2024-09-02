@@ -1,0 +1,6 @@
+Zod é uma biblioteca de validação
+
+Pesquise a plugin do zod com fastify no google, "fastify type provider zod"
+
+Como a maioria dos serviços de rastreio de email são pagos, é possível utilizar a biblioteca nodemailer para criar uma função fake interna para 
+teste, ou usar a ferramenta mailtrapper, que é gratuita e faz a mesma coisa

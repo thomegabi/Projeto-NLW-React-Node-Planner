@@ -1,0 +1,9 @@
+npm init -y  (inicia o node e cria o pacote .json)
+
+npm i typescript @types/node -D (instala o typescript como dependencia de desenvolvimento)
+
+npx tsc --init  (cria o arquivo de configuração tsconfig.ts)
+
+npm i tsx -D (biblioteca usada para converter typescript em javascript com apenas um comando)
+
+pesquisar "tsconfig bases"  no google e entrar no github da ms

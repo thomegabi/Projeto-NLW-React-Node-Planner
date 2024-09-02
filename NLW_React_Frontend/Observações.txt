@@ -1,0 +1,18 @@
+tailwind utiliza uma formatação unica, pois ele usa medidas relativas
+  ao utilizar uma altura de determinados px, é necessário dividir por 4, por exemplo
+    quer altura 64px, 64/4 = 16, logo h-16
+  o mesmo vale pra toda as outras medidas em pixel
+
+  utilize o figma pra tirar as informações do projeto, modele o front por la
+
+* Para fazer roteamento é necessário utilizar a tecnologia react router, basta ir no site e seguir o passo a passo de como instalar
+
+* O tamanho padrão de texto é 16px
+
+* Axios é a biblioteca utilizada para fazer a conexão entre o back e o front
+
+* Lembrete que o map no react funciona de forma semelhante a um for para arrays
+
+* Use date-fns para formatar aa datas
+
+ * DESAFIO: Adicionar forma de adicionar links e ajustar o gerenciamento de convidados

@@ -1,0 +1,11 @@
+npm create vite@latest -> nome do projeto -> Ferramenta de front e linguagem back
+
+npm install
+
+npm i lucide-react // biblioteca de icones
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+ir no site do tailwind e entrar em frameworks e seguir o passo a passo
+
